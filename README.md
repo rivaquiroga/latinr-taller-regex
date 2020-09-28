@@ -8,7 +8,7 @@ Este taller tiene por objetivo que sus participantes se familiaricen con el uso 
 
 ## ¿Cómo me inscribo?
 
-Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
+El taller se realizará el lunes 28 de septiembre entre 10:00 y 12:00 am UTC-3. Será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
 - [RLadies Talca](https://www.meetup.com/es/rladies-talca/events/273486730/)
 - [RLadies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/)
 - [RLadies CDMX](https://www.meetup.com/es/rladies-cdmx/events/273511609/)
@@ -62,6 +62,10 @@ El taller quedará grabado. Si prefieres, durante el taller puedes solo mirar y 
 ## Materiales utilizados durante el taller
 
 _Próximamente_
+
+## Video del taller
+
+El video del taller se publicará en el [canal de YouTube](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg) de LatinR una vez que termine la conferencia. 
 
 ## Material complementario
 
