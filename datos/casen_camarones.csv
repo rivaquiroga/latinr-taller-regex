@@ -1,0 +1,53 @@
+folio;comuna;sexo;edad;ecivil;h6l;h6h;pareja;nucleo;e1;e2;e3;e4;s1;s1c;e7;e8;y1;e11
+1;Camarones;Mujer;69;Viudo(a);NA;NA;No tiene pareja en el hogar;1;No, sólo lee;No;No;NA;NA;NA;;NA;NA;NA
+2;Camarones;Hombre;65;Soltero(a);NA;NA;No tiene pareja en el hogar;1;No, ninguno;No;No;NA;NA;NA;;NA;NA;NA
+3;Camarones;Hombre;83;Viudo(a);NA;NA;No tiene pareja en el hogar;1;No, sólo lee;No;No;NA;NA;NA;;NA;NA;NA
+4;Camarones;Hombre;32;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;3;5;6;;NA;230000;NA
+5;Camarones;Mujer;35;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+6;Camarones;Mujer;25;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+7;Camarones;Mujer;62;Separado(a);NA;NA;No tiene pareja en el hogar;1;No, sólo lee;No;No;NA;NA;NA;;NA;NA;NA
+8;Camarones;Hombre;70;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+9;Camarones;Hombre;81;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+10;Camarones;Mujer;73;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+11;Camarones;Hombre;83;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;35;35;NA;;NA;NA;NA
+12;Camarones;Hombre;93;Viudo(a);NA;NA;No tiene pareja en el hogar;1;No, ninguno;No;No;NA;NA;NA;;NA;NA;NA
+13;Camarones;Hombre;69;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+14;Camarones;Hombre;85;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+15;Camarones;Hombre;71;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+16;Camarones;Mujer;65;Viudo(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;50;;NA;NA;NA
+17;Camarones;Mujer;66;Soltero(a);NA;NA;No tiene pareja en el hogar;1;No, ninguno;No;No;NA;NA;NA;;NA;NA;NA
+18;Camarones;Hombre;70;Viudo(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+19;Camarones;Hombre;88;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+20;Camarones;Mujer;48;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+21;Camarones;Hombre;72;Casado(a);1;NA;Legal;1;No, ninguno;No;No;NA;NA;NA;;NA;NA;NA
+22;Camarones;Mujer;60;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+23;Camarones;Hombre;64;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+24;Camarones;Hombre;54;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+25;Camarones;Mujer;54;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+26;Camarones;Hombre;44;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+27;Camarones;Mujer;40;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;450000;NA
+28;Camarones;Mujer;17;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;Sí;NA;NA;NA;;Municipal;NA;Municipal
+29;Camarones;Hombre;12;Soltero(a);NA;NA;No tiene pareja en el hogar;1;NA;NA;Sí;NA;NA;NA;;Particular Subvencionada;NA;Particular Subvencionada
+30;Camarones;Mujer;64;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+31;Camarones;Hombre;70;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+32;Camarones;Hombre;67;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+33;Camarones;Mujer;82;Viudo(a);NA;NA;No tiene pareja en el hogar;1;No, ninguno;No;No;NA;NA;NA;;NA;NA;NA
+34;Camarones;Mujer;58;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+35;Camarones;Hombre;68;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+36;Camarones;Mujer;74;Conviviente o pareja sin acuerdo de unión civil;NA;1;De hecho;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;315000;NA
+37;Camarones;Hombre;74;Conviviente o pareja sin acuerdo de unión civil;NA;1;De hecho;1;Sí, lee y escribe;No;No;NA;NA;NA;CONTABILIDAD;NA;160000;NA
+38;Camarones;Hombre;76;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+39;Camarones;Mujer;74;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+40;Camarones;Hombre;55;Separado(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;275000;NA
+41;Camarones;Hombre;31;Conviviente o pareja sin acuerdo de unión civil;NA;1;De hecho;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+42;Camarones;Mujer;28;Conviviente o pareja sin acuerdo de unión civil;NA;1;De hecho;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+43;Camarones;Hombre;71;Soltero(a);NA;NA;No tiene pareja en el hogar;1;No, sólo lee;No;No;NA;NA;NA;;NA;NA;NA
+44;Camarones;Hombre;88;Viudo(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+45;Camarones;Mujer;46;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+46;Camarones;Hombre;77;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+47;Camarones;Mujer;69;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+48;Camarones;Mujer;65;Soltero(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+49;Camarones;Hombre;52;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+50;Camarones;Mujer;51;Casado(a);1;NA;Legal;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
+51;Camarones;Hombre;31;Soltero(a);NA;NA;No tiene pareja en el hogar;2;Sí, lee y escribe;No;No;NA;NA;NA;ELECTRICIDAD;NA;5,00E+05;NA
+52;Camarones;Mujer;70;Viudo(a);NA;NA;No tiene pareja en el hogar;1;Sí, lee y escribe;No;No;NA;NA;NA;;NA;NA;NA
