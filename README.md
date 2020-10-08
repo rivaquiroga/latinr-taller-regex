@@ -61,7 +61,8 @@ El taller quedará grabado. Si prefieres, durante el taller puedes solo mirar y 
 
 ## Materiales utilizados durante el taller
 
-_Próximamente_
+[Código](https://www.dropbox.com/s/4oa01qq6xtguurw/script-taller-regex.R?dl=0)
+
 
 ## Video del taller
 
